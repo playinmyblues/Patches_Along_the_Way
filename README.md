@@ -4,3 +4,5 @@ This repository is something I started while working through a book on Pure Data
 As I was playing around with the timing of the two sides and staggering them, some interesting melodies and combinations were happening.
 
 Hopefully, I will develop some interesting libraries along the way.
+
+Volume_control_8_saws_2_inits.pd came from working through the book I mention above. I made a patch with 8 oscillators and kept coming back to it to play with making beats by tuning the oscillators fairly close together but often found the sine waves to be either not interesting enough or at times a little piercing. So I changed the oscillators to phasors~ and renamed the patch a little. And here it now sits. I think it has potential for some nice drones and the like. I will have to develop it a little more later on.
